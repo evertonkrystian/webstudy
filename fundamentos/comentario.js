@@ -2,6 +2,6 @@
 console.log("Line1")
 
 /*
- *Multiples lines
+ * Multiples lines
  */
 console.log("multiples lines")
